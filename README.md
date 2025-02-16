@@ -35,3 +35,4 @@
 |Understanding Pod topology Spread Constraints|✅|
 |Understanding Taint and Toleration|✅|
 |Understanding Pod Priority and Preemption|✅|
+|Using Horizontal Pod Autoscaler and Vertical Pod Autoscaler|✅|
