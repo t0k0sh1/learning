@@ -36,3 +36,6 @@
 |Understanding Taint and Toleration|✅|
 |Understanding Pod Priority and Preemption|✅|
 |Using Horizontal Pod Autoscaler and Vertical Pod Autoscaler|✅|
+|Install Helm and install kube-prometheus-stack|✅|
+|Install Kustomize|✅|
+|Apply resources using kustomize|✅|
